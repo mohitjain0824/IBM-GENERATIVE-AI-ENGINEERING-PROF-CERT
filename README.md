@@ -1,40 +1,56 @@
-# IBM Generative AI Engineering Professional Certificate Portfolio
+# IBM Generative AI Engineering Professional Certificate
 
-This repository contains my coursework, labs, and projects from the IBM Generative AI Engineering Professional Certificate.
+This repository contains my labs, assignments, and projects for the IBM Generative AI Engineering Professional Certificate.
 
-## Certificate Overview
+## Program Snapshot
 
 - Program: IBM Generative AI Engineering Professional Certificate
 - Total courses: 16
-- Focus: Prompt engineering, foundation models, RAG, fine-tuning, agentic workflows, and deployment-oriented GenAI applications
+- Main topics: prompt engineering, foundation models, fine-tuning, RAG, agentic workflows, and GenAI app development
 
-## Repository Structure
+## Repository Layout
 
-Each course follows a consistent structure:
+- `C1-*` through `C16-*`: course folders
+- `CERTIFICATES/`: completion certificates and badges
+- `assets/`: shared screenshots and supporting files
+- `COURSE_INDEX.md`: detailed module/lab tracker
+- `templates/`: reusable documentation templates
 
-- `C1-*` ... `C16-*` for course directories
-- Inside each course: modules, labs, and project assets
-- `CERTIFICATES/` for completion credentials
+## Course Progress Checklist
 
-## Skills and Tools Demonstrated
+- [x] `C1-IntroductionToGenerativeAI`
+- [x] `C2-GenerativeAIAndPromptEngineeringBasics`
+- [x] `C3-FoundationModelsForGenAI`
+- [x] `C4-FineTuningAndRAGForGenAI`
+- [x] `C5-GenerativeAIApplicationsAndProjects`
+- [x] `C6-BuildingGenAIPoweredAppsWithPython`
+- [ ] `C7-Course7Name`
+- [ ] `C8-Course8Name`
+- [ ] `C9-Course9Name`
+- [ ] `C10-Course10Name`
+- [ ] `C11-Course11Name`
+- [ ] `C12-Course12Name`
+- [ ] `C13-Course13Name`
+- [ ] `C14-Course14Name`
+- [ ] `C15-Course15Name`
+- [ ] `C16-Course16Name`
 
-- Python for GenAI application development
-- Prompt engineering and evaluation
-- Retrieval-Augmented Generation (RAG)
-- Foundation model usage and adaptation
-- API and application integration patterns
+## Naming Convention
 
-## How to Use This Repository
+Use this format consistently:
 
-1. Open a course folder (for example `C1-IntroductionToGenerativeAI`).
-2. Navigate to module and lab content.
-3. Follow lab-specific README instructions where available.
+- Course: `C#-CourseNameNoSpaces`
+- Module: `M1`, `M2`, `M3`, ...
+- Lab: `lab-01-topic` or `topic-lab`
 
-## Portfolio Index
+Example:
 
-Course and lab tracking lives in `COURSE_INDEX.md`.
+`C6-BuildingGenAIPoweredAppsWithPython/M1/image-captioning-lab/`
 
-## Notes
+## Reusable Lab README Template
 
-- This is an actively maintained learning portfolio.
-- New labs and refinements are added as I progress through the certificate.
+Copy the template from:
+
+`templates/LAB_README_TEMPLATE.md`
+
+Use it for each new lab folder so documentation stays consistent across the certificate.
