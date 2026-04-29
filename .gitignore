@@ -13,3 +13,11 @@ chroma_db/
 # Uploaded Files
 static/uploads/*
 !static/uploads/.gitkeep
+
+# Audio Files (Temporary)
+*.wav
+*.mp3
+
+# IDE Settings
+.vscode/
+.idea/
